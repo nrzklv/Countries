@@ -327,3 +327,8 @@ ul {
 .box-item:not(:last-child) {
     margin-bottom: 8px;
 }
+
+.hero-search-bar::placeholder {
+    color: red;
+    opacity: 1;
+}
